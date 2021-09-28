@@ -1,0 +1,2 @@
+# Curso-IoT-2021
+Esse curso apresenta uma introdução aos conceitos de Internet das Coisas (do inglês Internet of Things - IoT) e temas relacionados como eletrônica e programação com microcontroladores. Você verá conceitos básicos de Internet das Coisas, Eletrônica e Programação. Além disso, montará circuitos com Arduino, desenvolverá aplicativos para dispositivos móveis e fará a comunicação entre eles.
