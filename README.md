@@ -3,6 +3,7 @@ Esse curso apresenta uma introdução aos conceitos de Internet das Coisas (do i
 
 
 -  Informações
+
 Tempo de Curso: 02 de agosto a 18 de dezembro de 2021
 
 Dias: Segunda-Feira e Quarta Feira
